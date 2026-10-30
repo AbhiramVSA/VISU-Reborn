@@ -1,4 +1,22 @@
-# 🤖 VISU-Reborn
+<p align="center">
+  <img src="assets/readme-mark.png" alt="Repository mark for the VISU-Reborn fork" width="200">
+</p>
+
+<h1 align="center">🤖 VISU-Reborn</h1>
+
+> **Fork status:** Fork of [VISU-Reborn/VISU-Reborn-backend](https://github.com/VISU-Reborn/VISU-Reborn-backend). The existing project guide follows.
+
+## Overview
+
+VISU-Reborn combines conversational voice features, LLM-controlled emotion display, and real-time visual feedback in an assistant project.
+
+## Navigation
+
+[Prerequisites](#prerequisites) · [Installation](#installation) · [Environment setup](#environment-setup) · [Project structure](#project-structure) · [Running tests](#running-tests)
+
+## Existing upstream guide
+
+The guide, project branding, and legal notices from the fork base remain below.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![LiveKit](https://img.shields.io/badge/LiveKit-Agents-green.svg)](https://docs.livekit.io/agents/)
