@@ -1,3 +1,5 @@
+> **Fork of [VISU-Reborn/VISU-Reborn-backend](https://github.com/VISU-Reborn/VISU-Reborn-backend).**
+
 # 🤖 VISU-Reborn
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
