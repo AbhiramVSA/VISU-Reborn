@@ -4,7 +4,7 @@
 
 ## Overview
 
-VISU-Reborn combines conversational voice features, emotion detection, and real-time visual feedback in an assistant project.
+VISU-Reborn combines conversational voice features, LLM-controlled emotion display, and real-time visual feedback in an assistant project.
 
 ## Navigation
 
