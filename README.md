@@ -1,4 +1,8 @@
-# 🤖 VISU-Reborn
+<p align="center">
+  <img src="assets/readme-mark.png" alt="Repository mark for the VISU-Reborn fork" width="200">
+</p>
+
+<h1 align="center">🤖 VISU-Reborn</h1>
 
 > **Fork status:** Fork of [VISU-Reborn/VISU-Reborn-backend](https://github.com/VISU-Reborn/VISU-Reborn-backend). The existing project guide follows.
 
